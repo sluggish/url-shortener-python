@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/sluggish/url-shortener-python
 cd url-shortener-python
-python setup.py install
+python shortener.py -h
 ```
 
 # Usage
